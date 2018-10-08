@@ -1,8 +1,5 @@
-== Theme Name: Logic - Free Html5 Multipurpose Business Template
+== Theme Name: ERPIOT template
 
-== Copyright (c) 2016 BootstrapThemes.co
-
-== http://BootstrapThemes.co
 
 
 
