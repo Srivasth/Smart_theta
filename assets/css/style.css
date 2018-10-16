@@ -548,7 +548,7 @@ input::-ms-input-placeholder {
 
 .main_menu_bg{
     margin-top: 0px;
-    background-color: transparent;
+    background-color: #15131b;
 }
 .main_menu_bg .navbar-default {
     background-color: transparent; 
