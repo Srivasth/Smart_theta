@@ -34,8 +34,8 @@ body {
 }
 
 .loaded {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     position: absolute;
     left: 50%;
     top: 50%;
