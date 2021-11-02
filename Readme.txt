@@ -1,5 +1,0 @@
-== Theme Name: ERPIOT template
-
-
-
-
